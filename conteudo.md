@@ -1,22 +1,23 @@
 # Conteúdo
 
-
 ### Ordem de execução
 
 **Semântica**
-´SELECT
+`SELECT
 FROM
 WHERE
 GROUP BY
 HAVING
-ORDER BY´
+ORDER BY
+LIMIT`
 
 **Real**
-´FROM
+`FROM
 WHERE
 GROUP BY
 HAVING
 SELECT
-ORDER BY´
+ORDER BY
+LIMIT`
 
-[Mais informacações|https://www.periscopedata.com/blog/sql-query-order-of-operations]
+[Mais informacações](https://www.periscopedata.com/blog/sql-query-order-of-operations)
