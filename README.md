@@ -9,8 +9,3 @@ Links Úteis
 * [Material de Estudo](https://www.mssqltips.com/sqlservertip/4644/sql-server-exam-70761-study-material-for-querying-data-with-transactsql)
 * [Curso - Conceitos básicos de BD](https://mva.microsoft.com/pt-br/training-courses/conceitos-bsicos-de-bancos-de-dados-8243?l=oQmVTV77_3904984382)
 * [Documentação do SQL Server](https://docs.microsoft.com/pt-br/sql/sql-server/)
-
-{% page-ref page="glossario.md" %}
-
-{% page-ref page="guia-de-estudo.md" %}
-
