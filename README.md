@@ -1,6 +1,15 @@
 # Exame 70-761
 
-Repositório para organizar os estudos do certificado SQL 70-761
+
+## Sumário
+
+* [Glossário](GLOSSARIO.md)
+* [Guia de Estudo](MATRIZ CURRICULAR.md)
+* Resumos
+** [Índices](RESUMOS/INDICES.md)
+** [Joins](RESUMOS/JOIN.md)
+
+## Repositório para organizar os estudos do certificado SQL 70-761
 
 Links Úteis
 
