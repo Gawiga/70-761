@@ -5,8 +5,8 @@
 - [Glossário](GLOSSARIO.md)
 - [Guia de Estudo](MATRIZ_CURRICULAR.md)
 - Resumos
-- - [Índices](RESUMOS/INDICES.md)
-- - [Joins](RESUMOS/JOIN.md)
+   - [Índices](RESUMOS/INDICES.md)
+   - [Joins](RESUMOS/JOIN.md)
 
 ## Repositório para organizar os estudos do certificado SQL 70-761
 
