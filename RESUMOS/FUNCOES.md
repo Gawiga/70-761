@@ -9,13 +9,6 @@
 
 ex: **AVG()** | **COUNT()** | **MAX()** | **SUM()** | **MIN()**
 
-## Funções de janela
-- [OVER](https://docs.microsoft.com/pt-br/sql/t-sql/queries/select-over-clause-transact-sql?view=sql-server-2017): Determina o particionamento e ordenação de um conjuntos de linahs antes da aplicação de uma função de janela associada.
-
-### Argumentos
-- PARTITION BY: Divide o conjunto de resultados da consulta em partições. 
-- UNBOUNDED PRECEDING: 
-
 ## [Funções matemáticas](https://docs.microsoft.com/pt-br/sql/t-sql/functions/mathematical-functions-transact-sql)
 - Executam um cálculo e retornam um valor númerico
 
