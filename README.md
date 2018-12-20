@@ -4,7 +4,7 @@
 
 - [Glossário](GLOSSARIO.md)
 - [Guia de Estudo](MATRIZ_CURRICULAR.md)
-- Resumos
+- [Resumos](RESUMOS)
    - [Índices](RESUMOS/INDICES.md)
    - [Joins](RESUMOS/JOIN.md)
 
