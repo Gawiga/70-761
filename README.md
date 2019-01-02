@@ -1,16 +1,20 @@
 # Exame 70-761
 
+`Repositório para organizar os estudos do certificado SQL 70-761`
+
+
 ## Sumário
 
 - [Glossário](GLOSSARIO.md)
 - [Guia de Estudo](MATRIZ_CURRICULAR.md)
 - [Resumos](RESUMOS)
+   - [Consultas](RESUMOS/CONSULTA.md) - *DML (Linguagem de Manipulação de Dados)*
+   - [Elementos](RESUMOS/ELEMENTOS.md) - *Elementos da Linguagem*
+   - [Funções](RESUMOS/FUNCOES.md)
    - [Índices](RESUMOS/INDICES.md)
    - [Joins](RESUMOS/JOIN.md)
 
-## Repositório para organizar os estudos do certificado SQL 70-761
-
-Links Úteis
+## Links Úteis
 
 * [Trilha de Certificação](https://www.microsoft.com/pt-br/learning/mcsa-sql2016-database-development-certification.aspx)
 * [Informações da Microsoft](https://www.microsoft.com/pt-br/learning/exam-70-761.aspx)
