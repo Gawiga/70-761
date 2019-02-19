@@ -2,7 +2,7 @@
 
 ## [TOP](https://docs.microsoft.com/pt-br/sql/t-sql/queries/top-transact-sql?view=sql-server-2017)
 - TOP WITH TIES: traz os resultados do TOP que são iguais
-:ex TOP 1 -> 1 registro 
+ex TOP 1 -> 1 registro 
 WITH TIES -> n registros com valor igual
 
 ## [OVER](https://docs.microsoft.com/pt-br/sql/t-sql/queries/select-over-clause-transact-sql?view=sql-server-2017)
